@@ -1,0 +1,23 @@
+name: Michele Pierangeli
+favicon: null
+layout_spectrum: 0.8025072631426156
+typography_spectrum: 0.4822902441956103
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4804405518807471
+  lightness: 0.8626432423479855
+  saturation: 0.2963966589886695
+  rhythmicContrast: 0.8194884173572063
+purpose: []
